@@ -1,5 +1,8 @@
 # B조 M3&M4 프로젝트
 
+## 진행상황공유
+![time table](teamB_time_table.png)
+
 ## 색감 지도
 
 ```
