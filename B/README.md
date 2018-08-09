@@ -1,5 +1,13 @@
 # B조 M3&M4 프로젝트
 
+## 파일명 저장법
+팀_프로젝트_문서종류_제목(내용을 알 수 있게)_작성자(혹은 수정자)_몇 번째 수정(최종을 알기 위해)
+```
+B_proj_docs_title_soryeong_ver01  
+B_proj_image_title_miningful_ver02  
+B_proj_code_title_ahlum_ver03  
+```
+
 ## 진행상황공유
 ![time table](teamB_time_table.png)
 
