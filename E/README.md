@@ -1,6 +1,6 @@
 # E조 프로젝트
 
-데잇걸즈 과정 중 M3~M4 마일스톤에서 진행된 조별 프로젝트이다. **E조**는 *강민경([@ddongule](https://github.com/ddonggule)), 강채원([@chaewonkang](https://github.com/chaewonkang)), 송서영([@seoyeongsong](https://github.com/seoyeongsong)), 정지혜([@jyeeee95](https://github.com/jyeeee95)), 홍다영([@dayeonghong])*로 이루어져 있다.
+데잇걸즈 과정 중 M3~M4 마일스톤에서 진행된 조별 프로젝트이다. **E조**는 *강민경([@ddongule](https://github.com/ddonggule)), 강채원([@chaewonkang](https://github.com/chaewonkang)), 송서영([@seoyeongsong](https://github.com/seoyeongsong)), 정지혜([@jyeeee95](https://github.com/jyeeee95)), 홍다영([@dayeonghong](ttps://github.com/dayeonghong))*로 이루어져 있다.
 
 
 
