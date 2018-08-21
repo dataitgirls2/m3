@@ -1,6 +1,6 @@
 # E조 프로젝트
 
-데잇걸즈 과정 중 M3~M4 마일스톤에서 진행된 조별 프로젝트이다. **E조**는 *강민경([@ddongule](https://github.com/ddonggule)), 강채원([@chaewonkang](https://github.com/chaewonkang)), 송서영([@seoyeongsong](https://github.com/seoyeongsong)), 정지혜([@jyeeee95](https://github.com/jyeeee95))*로 이루어져 있다.
+데잇걸즈 과정 중 M3~M4 마일스톤에서 진행된 조별 프로젝트이다. **E조**는 *강민경([@ddongule](https://github.com/ddonggule)), 강채원([@chaewonkang](https://github.com/chaewonkang)), 송서영([@seoyeongsong](https://github.com/seoyeongsong)), 정지혜([@jyeeee95](https://github.com/jyeeee95)), 홍다영([@dayeonghong])*로 이루어져 있다.
 
 
 
@@ -36,9 +36,11 @@
 
 
 
-## 커플의 연애 기간에 따른 데이트 장소 변화
+## 어디까지가 홍대일까?
 
-커플의 연애 기간에 따른 데이트 장소 변화를 분석해본다. 인스타그램을 통해 커플들이 100일, 200일, 300일, 1주년 등의 기념일에 방문하는 장소를 크롤링 해보고, 기타 데이터를 활용해 이를 분석한다.
+사람들이 '홍대에서 보자'라고 말을 할 때에, 홍익대학교 정문에서 보자고 하는것일까 아니면 연남동, 상수 등등까지 싸잡아서 홍대라고 하는것일까?
+우리는 그 말속에 담긴 시크릿한 내용들을 파헤쳐 보기로 했다.
+아! 이 얼마나 멋진 일인가!
 
 
 
@@ -47,8 +49,7 @@
 - *진행중*
 
 
-
 #### 프로젝트 진행 방향
 
-1. 인스타그램의 해시태그를 활용한 크롤링 작업
-2. 기타 데이터를 활용한 데이트 장소 분석
+1. 네이버 블로그를 활용한 크롤링 작업
+2. 기타 데이터를 활용한 홍대 분석
