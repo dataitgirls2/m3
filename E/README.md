@@ -58,4 +58,6 @@
 
 1. 네이버 블로그를 활용한 크롤링 작업
 2. 기타 데이터를 활용한 홍대 분석
-3. 웹 
+3. Web Publishing 및 Data Map Visualization 방향성 논의
+
+
